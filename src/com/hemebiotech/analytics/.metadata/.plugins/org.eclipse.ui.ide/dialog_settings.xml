@@ -13,7 +13,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
-			<item value="C:\Users\sonyl\long1\src\com\hemebiotech"/>
+			<item value="C:\Users\sonyl\long1\src\com\hemebiotech\analytics\long1\com\hemebiotech\analytics"/>
+			<item value="H:\Openclassroom 2023-2024\P2\P2_LAM_Ngoc long\long1\long1\src\com\hemebiotech\analytics"/>
 			<item value="C:\Users\sonyl\long1\src\com\hemebiotech\analytics"/>
 			<item value="C:\Users\sonyl\long1"/>
 		</list>
